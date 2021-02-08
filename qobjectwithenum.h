@@ -1,7 +1,7 @@
 #pragma once
 #include <QObject>
 
-class QObjectWithEnum : public QObject
+class Q_DECL_EXPORT QObjectWithEnum : public QObject
 {
     Q_OBJECT
 public:
